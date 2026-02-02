@@ -1,11 +1,9 @@
 :root {
     // colors
-    --blue-color: #355070;
-    --purple-color: #6d597a;
-    --plum-color: #b56576;
-    --peach-color: #e56b6f;
-    --melon-color: #eaac8b;
-
+    --purple-text: #6D5487;
+    --bg-color: #FFF3FE;
+    --gold-grad: linear-gradient(90deg, rgba(237, 186, 75, 0.8) 0%, rgba(255, 227, 168, 0.8) 34.13%, rgba(213, 179, 109, 0.8) 69.23%, rgba(230, 181, 85, 0.8) 100%);
+    --gold: #F4CA76;
     // container 
     --container-width: 81.25vw;
     --container-padding: 1.04vw;
